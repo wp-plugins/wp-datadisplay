@@ -1,0 +1,16 @@
+#wpdatadisplay-search input {
+	height: 35px;
+	color: white;
+	font-family: "Dosis";
+	font-size: 17px;
+	border: 1px solid black;
+	font-weight: 500;
+}
+
+#wpdatadisplay-search input[type='text'] {
+	background-color: #d1ae2b;
+}
+#wpdatadisplay-search input[type='submit'] {
+	background-color: #413a5f;
+}
+
